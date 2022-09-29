@@ -38,6 +38,9 @@ Data structures used for project - Binary Search Tree, Winner Heap
                     /          \          /       \
                  TEAM 1       TEAM 2   TEAM 3    TEAM 4
 -following matches in bottom up fashion, the winner is decided at the topmost node.
+![Screenshot 2022-09-29 at 11 13 59 AM](https://user-images.githubusercontent.com/84189320/192948766-4f082bf8-c1bb-46f9-86cc-93e48599aa8b.png)
+
+
 
 Files included-
 -cricket.h
