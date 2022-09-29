@@ -50,8 +50,9 @@ Files included-
 -winner_tree.h
 
 Installation-
+-go to project directory
 -run "make" command in terminal to compile all files.
--run the command "./play" to play the game on terminal.
+-run the command "./F" to play the game on terminal.
 
 
 **************************************THANKYOU********************************************
